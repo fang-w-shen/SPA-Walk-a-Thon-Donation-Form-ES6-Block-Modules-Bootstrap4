@@ -1,0 +1,8 @@
+@media (min-width: 1024px) {
+  .container {
+    width: 97%;
+  },
+  table {
+  	width:80%;
+  }
+}
